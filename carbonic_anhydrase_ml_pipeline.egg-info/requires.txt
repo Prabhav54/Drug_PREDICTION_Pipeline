@@ -9,4 +9,3 @@ dill
 catboost
 seaborn
 matplotlib
--e .

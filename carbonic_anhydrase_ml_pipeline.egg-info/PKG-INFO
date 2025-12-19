@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: carbonic_anhydrase_ml_pipeline
+Version: 0.0.1
+Author: Prabhav Khare
+Author-email: prabhavkhare54@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: xgboost
+Requires-Dist: chembl_webresource_client
+Requires-Dist: rdkit
+Requires-Dist: flask
+Requires-Dist: dill
+Requires-Dist: catboost
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

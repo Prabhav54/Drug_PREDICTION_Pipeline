@@ -1,1 +1,16 @@
 venv/
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Artifacts (Don't upload massive datasets or models)
+artifacts/
+data/
+logs/
+
+# Environment
+.env
+venv/
+.venv/
+
+carbonic_anhydrase_ml_pipeline.egg-info/
